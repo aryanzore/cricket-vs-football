@@ -1,1 +1,2 @@
-# cricket-vs-football-
+# cricket-vs-football
+This project analyzes the popularity of football and cricket across different Indian states and age groups using Python. A synthetic dataset was created with 100 rows and five columns, including Sport, State, Age Group, Popularity Score, and Weekly Viewership Hours. Using data analysis libraries like Pandas, Matplotlib, and Seaborn, we explored trends, distributions, and correlations between variables. Statistical methods such as t-tests and ANOVA were used to identify significant differences in popularity across groups. The project helps understand viewer preferences and engagement, offering insights for sports marketing, broadcasting strategies, and demographic-specific content planning in India’s sports industry.
